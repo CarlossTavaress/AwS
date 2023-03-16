@@ -14,3 +14,5 @@ function inverterString(str) {
 const minhaString = 'Exemplo de string para inverter';
 const minhaStringInvertida = inverterString(minhaString);
 console.log(minhaStringInvertida); 
+
+//este código inverte os caracteres de quaqluer string 
